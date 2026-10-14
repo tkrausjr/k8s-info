@@ -1,11 +1,11 @@
 # k8s-info
 
-> A collection of kubernetes tools and scripts to accomplish various tasks
+> A collection of kubernetes tools & scripts to accomplish various tasks
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Scripts](#scripts)
+- [Installation](#installation)
 - [Usage](#usage)
 
 ---
@@ -16,6 +16,11 @@ Before you begin, ensure you have met the following requirements:
 * [Credentials for accessing Supervisor as an Administrator] 
 * Provide links to installation guides for these prerequisites if necessary.
 
+## Scripts
+- **sup-vks-info.sh:** Quick overview of a Supervisor VKS Version, Supported VKR versions, and VKS Clusters (Healthy and Unhealthy)
+- **Second Item:** Description of the second item.
+- **Third Item:** Description of the third item.
+  
 ## Installation
 ```bash
 # Clone the repository
@@ -28,11 +33,6 @@ brew install jq
 # Make script executable
 chmod ./sup-vks-info.sh
 ```
-
-## Scripts
-- **sup-vks-info.sh:** Quick overview of a Supervisor VKS Version, Supported VKR versions, and VKS Clusters (Healthy and Unhealthy)
-- **Second Item:** Description of the second item.
-- **Third Item:** Description of the third item.
   
 ### To run the sup-vks-info.sh Script.
 ```bash
