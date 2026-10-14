@@ -11,8 +11,8 @@
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
-* [Dependency 1] (e.g., kubectl, and jq CLI Installed)
-* [Dependency 2] (e.g., Credentials for accessing Supervisor as an Administrator )
+* [Install kubectl & jq] 
+* [Credentials for accessing Supervisor as an Administrator] 
 * Provide links to installation guides for these prerequisites if necessary.
 
 ## Installation
