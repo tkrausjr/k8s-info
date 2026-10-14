@@ -5,6 +5,7 @@
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Scripts](#scripts)
 - [Usage](#usage)
 
 ---
@@ -27,6 +28,9 @@ brew install jq
 # Make script executable
 chmod ./sup-vks-info.sh
 ```
+
+## Scripts
+
 ### To run the sup-vks-info.sh Script.
 ```bash
 # Make sure you have installed kubectl and jq from the prerequisites
