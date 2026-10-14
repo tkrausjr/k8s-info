@@ -29,6 +29,7 @@ chmod ./sup-vks-info.sh
 ```
 ### To run the sup-vks-info.sh Script.
 ```bash
+# Make sure you have installed kubectl and jq from the prerequisites
 # Get access to the Supervisor Context as an Administrator
 # VCF 9.x with VCF CLI
 vcf context create my-supervisor --endpoint <supervisor-IP> --insecure-skip-tls-verify --type k8s --auth-type basic
