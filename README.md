@@ -30,7 +30,10 @@ chmod ./sup-vks-info.sh
 ```
 
 ## Scripts
-
+- **sup-vks-info.sh:** Quick overview of a Supervisor VKS Version, Supported VKR versions, and VKS Clusters (Healthy and Unhealthy)
+- **Second Item:** Description of the second item.
+- **Third Item:** Description of the third item.
+  
 ### To run the sup-vks-info.sh Script.
 ```bash
 # Make sure you have installed kubectl and jq from the prerequisites
